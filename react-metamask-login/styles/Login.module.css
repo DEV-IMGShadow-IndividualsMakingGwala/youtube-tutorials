@@ -1,5 +1,5 @@
 .login_container {
-  background-color: rgb(14 165 233);
+  background-color: rgb(7, 42, 117);
   height: 100vh;
   display: grid;
   align-items: center;
@@ -7,7 +7,7 @@
 }
 
 .login_card {
-  background-color: white;
+  background-color: rgb(176, 151, 243);
   width: 200px;
   height: 250px;
   border-radius: 40px;

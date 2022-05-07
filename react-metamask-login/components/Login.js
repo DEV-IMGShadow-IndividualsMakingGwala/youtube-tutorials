@@ -18,7 +18,7 @@ function Login() {
           <button
             onClick={authenticate}
           >
-            Login with Moralis
+            Login to iMG Crypto Hub Welcome To GwalaVerse Platform
           </button>
         </div>
       </div>
